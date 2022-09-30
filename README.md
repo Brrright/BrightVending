@@ -1,5 +1,5 @@
 # BrightVending
-A simple vending machine created using Java
+A simple vending machine created using Java for assignment.
 
 2 roles in total which are admin and customer.
 
