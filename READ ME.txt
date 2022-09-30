@@ -1,0 +1,16 @@
+Bright Vending Machine System
+
+main page -> customer login
+
+Admin login:
+username = admin
+password = 123
+
+I have tried to use another device to run my program, realize that there will have an error if the way to open the program is incorrect.
+**To run the program successfully:**
+1) do not unzip the zip file first
+2) open netbeans
+3) then unzip the zip file
+4) in netbeans, open project, select the unzipped folder
+5) find customer_login.java
+6) run the file

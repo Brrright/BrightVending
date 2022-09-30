@@ -1,0 +1,16 @@
+src/main/java/com/mycompany/brightvending/files/
+
+
+Admin
+AdminName;Password
+
+Customer
+CustomerName;Password
+
+Product
+ProductID;ProductName;ProductPrice;Stock;ProductPicture
+
+Receipt
+ReceiptID;DateTime;TotalPrice;MoneyInserted;Chance
+
+

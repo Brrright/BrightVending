@@ -1,0 +1,16 @@
+ProductID;ProductName;ProductPrice;Stock;ProductPicture
+1;Normal Bun;2.00;0;src/main/java/com/mycompany/brightvending/image/productImage/1newImage.jpeg
+2;Butter waffles;5.99;35;src/main/java/com/mycompany/brightvending/image/productImage/2newImage.jpg
+3;Hot cup;5.99;16;src/main/java/com/mycompany/brightvending/image/productImage/3newImage.jpg
+4;Potato Bun;3.30;0;src/main/java/com/mycompany/brightvending/image/productImage/4newImage.jpg
+5;Seven Up;3.00;96;src/main/java/com/mycompany/brightvending/image/productImage/5newImage.jpg
+6;Pepsi;3.00;93;src/main/java/com/mycompany/brightvending/image/productImage/6newImage.png
+7;Hundred plus;3.00;182;src/main/java/com/mycompany/brightvending/image/productImage/7newImage.jpg
+8;Coca cola;3.00;186;src/main/java/com/mycompany/brightvending/image/productImage/8newImage.jpg
+9;Super ring;1.00;196;src/main/java/com/mycompany/brightvending/image/productImage/9newImage.jpg
+11;Potatochip;3.00;145;src/main/java/com/mycompany/brightvending/image/productImage/11newImage.jpg
+12;MAMEE monster;0.50;194;src/main/java/com/mycompany/brightvending/image/productImage/12newImage.jpg
+13;Snicker;2.00;22;src/main/java/com/mycompany/brightvending/image/productImage/13newImage.png
+14;Pedas Hotcup;5.00;97;src/main/java/com/mycompany/brightvending/image/productImage/14newImage.jpg
+15;Milo;2.50;1;src/main/java/com/mycompany/brightvending/image/productImage/15newImage.jpg
+16;Fanta;2.30;17;src/main/java/com/mycompany/brightvending/image/productImage/16newImage.jpg
