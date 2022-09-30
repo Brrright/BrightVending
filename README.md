@@ -1,7 +1,7 @@
 # BrightVending
 A simple vending machine created using Java for assignment.
 
-2 roles in total which are admin and customer.
+2 roles : admin and customer.
 
 Both role have to login (requirement of assignment paper, i know its weird to let customer login xD)
 
